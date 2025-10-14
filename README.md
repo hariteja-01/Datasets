@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2800&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+Datasets+Hub!+📊;Your+Data+Science+Resource+🚀;Explore+%26+Learn+%26+Build+💡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2800&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+Datasets+Hub!+📊;Your+Data+Science+Resource+🚀;Explore+%26+Learn+%26+Build+💡" alt="Animated welcome banner showing: Welcome to Datasets Hub, Your Data Science Resource, Explore & Learn & Build" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=90" />
@@ -58,17 +58,17 @@ This repository serves as a **centralized hub** for various datasets utilized ac
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" height="100"/>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" height="100" alt="Animated data visualization chart"/>
 <br><b>📊 Diverse Data</b>
 <br>Multiple domain datasets
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" height="100"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" height="100" alt="Animated rocket launching"/>
 <br><b>🚀 Easy Access</b>
 <br>Well organized structure
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" height="100"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" height="100" alt="Animated growth chart trending upward"/>
 <br><b>📈 Regular Updates</b>
 <br>Continuously maintained
 </td>
@@ -149,12 +149,12 @@ head(data)
 
 | 🏷️ Category | 📝 Description | 🔗 Quick Access |
 |:----------:|:--------------|:--------------:|
-| 🤖 **Machine Learning** | Classification, Regression, Clustering datasets | [Browse](.) |
-| 📈 **Data Analysis** | Statistical datasets for analysis and visualization | [Browse](.) |
-| 👁️ **Computer Vision** | Image datasets for CV projects | [Browse](.) |
-| 💬 **NLP** | Text datasets for language models | [Browse](.) |
-| ⏰ **Time Series** | Temporal data for forecasting | [Browse](.) |
-| 🎲 **Miscellaneous** | Other useful datasets | [Browse](.) |
+| 🤖 **Machine Learning** | Classification, Regression, Clustering datasets | Coming Soon |
+| 📈 **Data Analysis** | Statistical datasets for analysis and visualization | Coming Soon |
+| 👁️ **Computer Vision** | Image datasets for CV projects | Coming Soon |
+| 💬 **NLP** | Text datasets for language models | Coming Soon |
+| ⏰ **Time Series** | Temporal data for forecasting | Coming Soon |
+| 🎲 **Miscellaneous** | Other useful datasets | Coming Soon |
 
 </div>
 
