@@ -140,7 +140,7 @@ Contributions are welcome! If you have a dataset that would benefit others, plea
 
 The datasets in this repository may have different licenses. Please check the README in each dataset folder for specific license information.
 
-Unless otherwise specified, the repository structure and documentation are available under the [MIT License](LICENSE).
+Unless otherwise specified, the repository structure and documentation are available under an open license (to be determined).
 
 **Important**: Always verify the license of individual datasets before using them in commercial projects.
 
@@ -161,9 +161,10 @@ Thank you to all contributors who help maintain and expand this dataset collecti
 
 ## 📚 Additional Resources
 
-- [How to Choose the Right Dataset](https://github.com/hariteja-01/Datasets/wiki)
-- [Data Cleaning Best Practices](https://github.com/hariteja-01/Datasets/wiki)
-- [Dataset Format Guidelines](https://github.com/hariteja-01/Datasets/wiki)
+Additional documentation and guidelines will be added to the [wiki](https://github.com/hariteja-01/Datasets/wiki) as the repository grows, including:
+- How to Choose the Right Dataset
+- Data Cleaning Best Practices
+- Dataset Format Guidelines
 
 ---
 
